@@ -280,12 +280,13 @@ class CameraEarringPage extends StatelessWidget {
                   child: Image.network(
                     'https://cdn-icons-png.flaticon.com/512/7432/7432770.png', //8th
                     fit: BoxFit.cover,
+                    ),
                   ),
-                ),
-                ],),
+                ],
+              ),
             ),
-            ),
-         ],),
+          ),
+        ],),
       )
     );
   }
