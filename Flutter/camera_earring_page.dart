@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:jewelme/button_page.dart';
 import 'package:jewelme/select_earring_page.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class CameraEarringPage extends StatelessWidget {
   const CameraEarringPage({Key? key}) : super(key: key);
