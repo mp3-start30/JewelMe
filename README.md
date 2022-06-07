@@ -12,8 +12,6 @@
 * 프로젝트 이름: Jewel Me   
 <br/>
 
-### 역할 분담
-![역할](https://user-images.githubusercontent.com/90131462/170628729-49d19dc2-4541-4c3f-87d6-c1c80fdf631b.jpg)
 
 ### Jewel Me 포스터
 ![poster](https://user-images.githubusercontent.com/90131462/170628706-303c1e77-086a-4846-92b8-4f18c85c1aaa.png)
