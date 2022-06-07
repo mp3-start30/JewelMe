@@ -16,7 +16,6 @@
 ### Jewel Me 시연영상
 https://youtu.be/ljSLPtE9H-I
 <br/>
-<br/>
 
 
 ### Jewel Me 포스터
