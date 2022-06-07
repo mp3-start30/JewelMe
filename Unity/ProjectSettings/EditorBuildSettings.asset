@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/necklaces.unity
-    guid: ede3f84a6437e7f4b9e7c58e3fe929b0
+    path: Assets/Scenes/glasses.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 78c479be11e2cf344976d2844a9aaf3e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a81974a891aa5324ba6e735847c24245, type: 2}
