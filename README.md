@@ -12,6 +12,10 @@
 * 프로젝트 이름: Jewel Me   
 <br/>
 
+### Jewel Me 시연영상
+https://youtu.be/ljSLPtE9H-I
+<br/>
+
 
 ### Jewel Me 포스터
 ![poster](https://user-images.githubusercontent.com/90131462/170628706-303c1e77-086a-4846-92b8-4f18c85c1aaa.png)
