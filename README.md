@@ -1,4 +1,4 @@
-# JewelMe
+# Jewel Me
 
 ### 이화여자대학교 캡스톤디자인프로젝트 30팀 mp3
 ### AR 액세서리 가상 착용 어플 'Jewel Me'   
