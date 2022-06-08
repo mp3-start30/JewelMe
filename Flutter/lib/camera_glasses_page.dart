@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:jewelme/button_page.dart';
 import 'package:jewelme/select_glasses_page.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:flutter_unity_widget/flutter_unity_widget.dart';
 
 class CameraGlassesPage extends StatelessWidget {
   const CameraGlassesPage({Key? key}) : super(key: key);
@@ -129,25 +130,6 @@ class CameraGlassesPage extends StatelessWidget {
                       Container(
                         width: 80,
                         height: 80,
-                        padding: const EdgeInsets.all(15),
-                        margin:const EdgeInsets.fromLTRB(0, 0, 10, 0),
-                        decoration: BoxDecoration(
-                            color: Colors.white,
-                            borderRadius: BorderRadius.circular(100),
-                            border: Border.all(
-                              color: Colors.black12,
-                              style: BorderStyle.solid,
-                              width: 3,
-                            )
-                        ),
-                        child: Image.network(
-                          'https://cdn-icons-png.flaticon.com/512/3617/3617007.png', //1st
-                          fit: BoxFit.cover,
-                        ),
-                      ),
-                      Container(
-                        width: 80,
-                        height: 80,
                         padding: const EdgeInsets.all(5),
                         margin:const EdgeInsets.fromLTRB(0, 0, 10, 0),
                         decoration: BoxDecoration(
@@ -159,8 +141,8 @@ class CameraGlassesPage extends StatelessWidget {
                               width: 3,
                             )
                         ),
-                        child: Image.network(
-                          'https://static.zennioptical.com/production/products/general/10/12/101235-eyeglasses-front-view.jpg', //2nd
+                        child: Image.asset(
+                          'images/1stglasses.jpg', //1st
                           fit: BoxFit.contain,
                         ),
                       ),
@@ -178,8 +160,8 @@ class CameraGlassesPage extends StatelessWidget {
                               width: 3,
                             )
                         ),
-                        child: Image.network(
-                          'https://blackeyewear.com/wp-content/uploads/2019/10/WES_BRFL_G_FRONT-680x238.jpg', //3rd
+                        child: Image.asset(
+                          'images/2ndglasses.jpg', //2nd
                           fit: BoxFit.contain,
                         ),
                       ),
@@ -197,8 +179,8 @@ class CameraGlassesPage extends StatelessWidget {
                               width: 3,
                             )
                         ),
-                        child: Image.network(
-                          'https://images-na.ssl-images-amazon.com/images/I/415mGS-NKnL._AC_UL1024_.jpg', //4th
+                        child: Image.asset(
+                          'images/3rdglasses.jpg', //3rd
                           fit: BoxFit.contain,
                         ),
                       ),
@@ -216,8 +198,8 @@ class CameraGlassesPage extends StatelessWidget {
                               width: 3,
                             )
                         ),
-                        child: Image.network(
-                          'https://img.ebdcdn.com/product/frame/white/pm0136_3.jpg?im=Resize,width=600,height=300,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0', //5th
+                        child: Image.asset(
+                          'images/4thglasses.jpg', //4th
                           fit: BoxFit.contain,
                         ),
                       ),
@@ -235,8 +217,8 @@ class CameraGlassesPage extends StatelessWidget {
                               width: 3,
                             )
                         ),
-                        child: Image.network(
-                          'https://www.directsight.co.uk/resources/version/1467204059555909', //6th
+                        child: Image.asset(
+                          'images/5thglasses.jpg', //5th
                           fit: BoxFit.contain,
                         ),
                       ),
@@ -254,8 +236,8 @@ class CameraGlassesPage extends StatelessWidget {
                               width: 3,
                             )
                         ),
-                        child: Image.network(
-                          'https://static.zennioptical.com/production/products/general/20/84/208425-eyeglasses-front-view.jpg', //7th
+                        child: Image.asset(
+                          'images/6thglasses.jpg', //6th
                           fit: BoxFit.contain,
                         ),
                       ),
@@ -273,8 +255,8 @@ class CameraGlassesPage extends StatelessWidget {
                               width: 3,
                             )
                         ),
-                        child: Image.network(
-                          'https://img.ebdcdn.com/product/front/white/mt6567.jpg?im=Resize,width=600,height=300,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0', //8th
+                        child: Image.asset(
+                          'images/7thglasses.jpg', //7th
                           fit: BoxFit.contain,
                         ),
                       ),
@@ -292,8 +274,27 @@ class CameraGlassesPage extends StatelessWidget {
                               width: 3,
                             )
                         ),
-                        child: Image.network(
-                          'https://m.media-amazon.com/images/I/61Wh+37QNhL._AC_SL1500_.jpg', //9th
+                        child: Image.asset(
+                          'images/8thglasses.jpg', //8th
+                          fit: BoxFit.contain,
+                        ),
+                      ),
+                      Container(
+                        width: 80,
+                        height: 80,
+                        padding: const EdgeInsets.all(5),
+                        margin:const EdgeInsets.fromLTRB(0, 0, 10, 0),
+                        decoration: BoxDecoration(
+                            color: Colors.white,
+                            borderRadius: BorderRadius.circular(100),
+                            border: Border.all(
+                              color: Colors.black12,
+                              style: BorderStyle.solid,
+                              width: 3,
+                            )
+                        ),
+                        child: Image.asset(
+                          'images/9thglasses.jpg', //9th
                           fit: BoxFit.contain,
                         ),
                       ),
