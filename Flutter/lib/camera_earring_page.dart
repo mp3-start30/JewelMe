@@ -141,8 +141,8 @@ class CameraEarringPage extends StatelessWidget {
                                 width: 3,
                               )
                           ),
-                          child: Image.network(
-                            'https://cdn-icons-png.flaticon.com/512/1036/1036964.png', //1st
+                          child: Image.asset(
+                            'images/1stearring.jpg', //1st
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -160,8 +160,8 @@ class CameraEarringPage extends StatelessWidget {
                                 width: 3,
                               )
                           ),
-                          child: Image.network(
-                            'https://purepng.com/public/uploads/large/purepng.com-blue-diamond-earringsjewelryjewelleryearringsdiamondornaments-1701528882399i697k.png', //2nd
+                          child: Image.asset(
+                            'images/2ndearring.png', //2nd
                             fit: BoxFit.contain,
                           ),
                         ),
@@ -179,8 +179,8 @@ class CameraEarringPage extends StatelessWidget {
                                 width: 3,
                               )
                           ),
-                          child: Image.network(
-                            'https://snipstock.com/assets/cdn/png/50f85fe684700b9ae08cf118e3e47fc8.png', //3rd
+                          child: Image.asset(
+                            'images/3rdearring.png', //3rd
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -198,8 +198,8 @@ class CameraEarringPage extends StatelessWidget {
                                 width: 3,
                               )
                           ),
-                          child: Image.network(
-                            'https://www.pngkey.com/png/full/947-9470117_diamond-earring-png-earrings.png', //4th
+                          child: Image.asset(
+                            'images/4thearring.png', //4th
                             fit: BoxFit.contain,
                           ),
                         ),
@@ -217,8 +217,8 @@ class CameraEarringPage extends StatelessWidget {
                                 width: 3,
                               )
                           ),
-                          child: Image.network(
-                            'https://www.pngkit.com/png/full/127-1270707_free-png-earring-png-images-transparent-earrings-png.png', //5th
+                          child: Image.asset(
+                            'images/5thearring.png', //5th
                             fit: BoxFit.contain,
                           ),
                         ),
@@ -236,8 +236,8 @@ class CameraEarringPage extends StatelessWidget {
                                 width: 3,
                               )
                           ),
-                          child: Image.network(
-                            'https://i.pinimg.com/originals/51/93/43/519343cd64b8dd3056d3f2302c25a4f2.jpg', //6th
+                          child: Image.asset(
+                            'images/6thearring.jpg', //6th
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -255,14 +255,15 @@ class CameraEarringPage extends StatelessWidget {
                                 width: 3,
                               )
                           ),
-                          child: Image.network(
-                            'https://www.pngmart.com/files/6/Earring-PNG-Photos.png', //7th
+                          child: Image.asset(
+                            'images/7thearring.png', //7th
                             fit: BoxFit.cover,
                           ),
                         ),
                         Container(
                           width: 80,
                           height: 80,
+                          padding: const EdgeInsets.all(10),
                           margin:const EdgeInsets.fromLTRB(0, 0, 10, 0),
                           decoration: BoxDecoration(
                               color: Colors.white,
@@ -273,8 +274,9 @@ class CameraEarringPage extends StatelessWidget {
                                 width: 3,
                               )
                           ),
-                          child: const CircleAvatar(
-                            backgroundImage: NetworkImage('https://cdn.imweb.me/thumbnail/20190327/5c9aad9c4ce74.jpg'), //8th
+                          child: Image.asset(
+                            'images/8thearring.jpg', //8th
+                            fit: BoxFit.cover,
                           ),
                         ),
                         Container(
@@ -291,8 +293,8 @@ class CameraEarringPage extends StatelessWidget {
                                 width: 3,
                               )
                           ),
-                          child: Image.network(
-                            'https://cdn.faire.com/fastly/1c2296044c41166ae588c57992061cb4f023a4328f29e5791786585ec6615cc1.jpeg?bg-color=FFFFFF&canvas=300:300&dpr=1&fit=bounds&format=jpg&height=300&width=300', //9th
+                          child: Image.asset(
+                            'images/9thearring.jpg', //9th
                             fit: BoxFit.cover,
                           ),
                         ),
