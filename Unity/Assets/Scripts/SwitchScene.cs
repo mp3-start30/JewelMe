@@ -22,7 +22,7 @@ public class SwitchScene : MonoBehaviour
     }
 
     public void ReturnButtonClick(int num) {
-        PanelManager.stateNum = num;
+        SwitchPanel.stateNum = num;
         SceneManager.LoadScene("main");
     }
 }

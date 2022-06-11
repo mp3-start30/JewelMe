@@ -9,11 +9,20 @@ EditorBuildSettings:
     path: Assets/Scenes/main.unity
     guid: e3cdb71cfa32a409dbd69d6b5c510282
   - enabled: 1
-    path: Assets/Scenes/glasses.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/earrings.unity
+    guid: bb6c428c237236e489d261fce0fee7a4
   - enabled: 1
     path: Assets/Scenes/necklaces.unity
     guid: ede3f84a6437e7f4b9e7c58e3fe929b0
+  - enabled: 1
+    path: Assets/Scenes/glasses.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/sunglasses.unity
+    guid: 5aea7dd8d7f50ca40913768eb29e8d1f
+  - enabled: 1
+    path: Assets/Scenes/piercings.unity
+    guid: ae0f9f8053360be4890cf40865b2c5b6
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 78c479be11e2cf344976d2844a9aaf3e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a81974a891aa5324ba6e735847c24245, type: 2}

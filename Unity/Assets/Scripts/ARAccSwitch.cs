@@ -40,47 +40,7 @@ public class ARAccSwitch : MonoBehaviour
         }
     }
 
-    public void OnclickButton1()
-    {
-        num = 0;
-    }
-
-    public void OnclickButton2()
-    {
-        num = 1;
-    }
-
-    public void OnclickButton3()
-    {
-        num = 2;
-    }
-
-    public void OnclickButton4()
-    {
-        num = 3;
-    }
-
-    public void OnclickButton5()
-    {
-        num = 4;
-    }
-
-    public void OnclickButton6()
-    {
-        num = 5;
-    }
-
-    public void OnclickButton7()
-    {
-        num = 6;
-    }
-
-    public void OnclickButton8()
-    {
-        num = 7;
-    }
-
-    public void SwitchAcc()
+    public void SwitchAcc(int num)
     {
         ARAccMove.vertical = 0;
         ARAccMove.parallel = 0;
