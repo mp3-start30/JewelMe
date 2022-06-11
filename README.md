@@ -20,4 +20,4 @@ https://youtu.be/ljSLPtE9H-I
 
 
 ### Jewel Me 포스터
-![poster](https://user-images.githubusercontent.com/90131462/170628706-303c1e77-086a-4846-92b8-4f18c85c1aaa.png)
+![30_MP3_포스터](https://user-images.githubusercontent.com/81751862/173181042-bbc80c39-e3dd-4cf9-b91e-2ed5433a5c06.png)
