@@ -1,9 +1,7 @@
 # Release Note for [Jewel Me]
-=======================================     
 <br>
 
 ## Quick Start Guide
---------------------
 <br>
      
 (1) mp3-team30/JewelMe Github Release에서 JewelMe.apk 파일을 다운받는다. [Jewel Me]는 안드로이드 전용 어플이다.
@@ -24,5 +22,4 @@
 <br>
 
 ### Logo of [Jewel Me]
-----------------------
 ![주얼미 로고](https://user-images.githubusercontent.com/89959606/172970395-227150a2-3c5e-405d-935f-19a884f0c875.png)
