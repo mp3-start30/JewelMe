@@ -1960,9 +1960,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   arFaceManager: {fileID: 0}
   accessories:
-  - {fileID: 7447108079608354559, guid: 3d533f4b5122dde4e9894717b8d2a09f, type: 3}
-  - {fileID: 1118406705743438234, guid: b54cc16ee2465684d90b1e179698ce4a, type: 3}
-  - {fileID: 2698704635881881553, guid: f8d54a69f91a26b45a4c7abf80e2c5ff, type: 3}
+  - {fileID: 5470345314139045771, guid: 07dceffe42417c0489e27e1d96108624, type: 3}
+  - {fileID: 5470345314139045771, guid: b997466e1566e4c4cbb85991eb2e907b, type: 3}
+  - {fileID: 6941795934565427589, guid: 9d85ad1622f4b144f80b649ff28d4d96, type: 3}
+  - {fileID: 1655752889454360003, guid: 4565da178bd30914399c5728c696f560, type: 3}
 --- !u!114 &1217662495
 MonoBehaviour:
   m_ObjectHideFlags: 0

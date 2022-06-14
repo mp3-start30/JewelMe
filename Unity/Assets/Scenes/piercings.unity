@@ -594,10 +594,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   arFaceManager: {fileID: 0}
   accessories:
-  - {fileID: 1742360661532846625, guid: 49b90e72070c30e488af6941c807f142, type: 3}
-  - {fileID: 1742360661532846625, guid: 650ec0a9272612940808c19fec623af9, type: 3}
-  - {fileID: 8122170047795394768, guid: 84f9bc31e9ce97840bdad55e0593ca84, type: 3}
-  - {fileID: 8122170047795394768, guid: 002d180a94d0c5f43b0a62dbea3671f6, type: 3}
+  - {fileID: 3382910036726903052, guid: 96a4b558d6eb50146baeb3bae258fef4, type: 3}
+  - {fileID: 3382910036726903052, guid: 3be5c701bfc637c418b38f44bdb17081, type: 3}
+  - {fileID: 5149668121513292339, guid: 0b955018eabeac4478cfec3eeda868a7, type: 3}
+  - {fileID: 1383717974716665756, guid: af17dd71a4ea7f140a85d92fee809031, type: 3}
 --- !u!114 &546046061
 MonoBehaviour:
   m_ObjectHideFlags: 0
